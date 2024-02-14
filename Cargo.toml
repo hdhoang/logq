@@ -17,12 +17,12 @@ codecov = { repository = "MnO2/logq" }
 
 [dependencies]
 clap = {version = "2.33.0", features = ["yaml"]}
-regex = "1.1.7"
-failure = "0.1.5"
+regex = "1.4.6"
+failure = "0.1.8"
 hashbrown = "0.5"
-ordered-float = "1.0"
+ordered-float = "1.1"
 nom = "5.0"
-prettytable-rs = "^0.8"
+prettytable-rs = "^0.9"
 chrono = "0.4"
 url = "2.1.0"
 csv = "1.1"
